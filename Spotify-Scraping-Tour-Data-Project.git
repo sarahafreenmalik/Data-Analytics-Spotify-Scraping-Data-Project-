@@ -1,0 +1,6 @@
+git init                # if not already a repo
+git add hasan_raheem_tour.csv scraper.py
+git commit -m "Add scraper and tour data"
+git branch -M main
+git remote add origin https://github.com/yourusername/Spotify-Scraping-Tour-Data-Project.git
+git push -u origin main
