@@ -1,4 +1,4 @@
-# Data Analytics - Spotify & Instagram Case Study
+# Data Analytics - Spotify & Instagram Audience Analytics
 
 ## Overview
 This project scrapes Hasan Raheem's tour data and combines it with Instagram analytics (@Sarahafreenmalik) to demonstrate how social engagement and streaming/touring insights can be connected. While Hasan’s tour serves as the dataset, the framework is designed to be applied to **local and emerging artists** — and eventually to my own bilingual (Urdu/English) music.
