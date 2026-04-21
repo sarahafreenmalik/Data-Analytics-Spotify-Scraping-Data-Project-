@@ -49,13 +49,14 @@ Instagram is my strongest traction channel:
 These insights show that Instagram drives the majority of my audience engagement, making it a key dataset to connect with streaming and touring demand.
 
 ## Upcoming Show: Voiceofher
-I am performing at **Voiceofher**, where I will be both singing and DJing. This event highlights my dual identity as a bilingual indie artist and DJ, and connects directly to my analytics framework:
+On **May 23rd**, I will be performing at **Voiceofher**, where I will be both singing and DJing. This event highlights my dual identity as a bilingual indie artist and DJ, and connects directly to my analytics framework:
 
-- 🎤 **Performance Data**: I can track engagement from this show (attendance, social buzz, streaming spikes).
+- 🎤 **Performance Data (to be added post-event)**: I will track engagement from this show (attendance, social buzz, streaming spikes).
 - 🎶 **DJ + Vocal Integration**: Showcasing both artistry and technical skill in one performance.
 - 📊 **Analytics Opportunity**: Using Instagram insights to measure how live events drive online engagement.
 - 🌍 **Community Connection**: Voiceofher emphasizes local and emerging artists, aligning with my portfolio’s focus on grassroots reach.
 
+This upcoming performance will provide a **new dataset** to extend my case study — showing how live events impact social engagement and streaming behavior.
 ## Extending to Other Artists
 The same framework can be applied to other artists:
 - 📍 Identify untapped cities and communities where Instagram engagement signals strong demand.
@@ -71,7 +72,7 @@ Planned extensions include:
 - 🎶 Applying analytics to my own bilingual music and DJ content, demonstrating how grassroots talent can be surfaced through data.
 - 🌍 Expanding analysis to diaspora-heavy and overlooked regions, helping platforms like Spotify recommend smarter tour routes and promotional strategies.
 
-By combining **technical rigor** with **artistic practice**, I aim to help platforms such as Spotify empower both established and emerging artists — optimizing tours, strengthening community engagement, and connecting audiences worldwide.
+By combining technical rigor with artistic practice, applying my background of data analytics, I can spearhead marketing campaigns for brand partnerships with Spotify, Soundcloud, Native Instrument, and Ableton to empower both established and emerging artists — optimizing tours, strengthening community engagement, and connecting audiences worldwide.
 
 
 
